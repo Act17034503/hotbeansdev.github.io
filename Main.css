@@ -1,0 +1,49 @@
+body {
+    background-image: url("Images/Hot%20Beans%20Logo%20Final.png");
+    background-size: 50%;
+    background-repeat: repeat;
+}
+
+p {
+    color: darkslategrey;
+    font-size: 16px;
+}
+
+img {
+    border-radius: 18%;
+}
+
+input {
+    background-color: antiquewhite;
+}
+
+#NB {
+    opacity: 0.75;
+    filter: alpha(opacity=75);
+}
+
+#NB:hover {
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+#textbox {
+    margin: 20px;
+    background: rgba(255, 255, 255, 0.4);
+    border: none;
+    border-radius: 1%;
+}
+
+#textbox:hover {
+    margin: 20px;
+    background: rgba(255, 255, 255, 0.75);
+    border: none;
+    border-radius: 1%;
+}
+
+footer {
+    background-color: deepskyblue;
+    border: none;
+    color: azure;
+    font-weight: bold;
+}
